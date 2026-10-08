@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SkypeLangEditor.Tests/SkypeLangEditor.Tests.csproj" />
+  <Project Path="SkypeLangEditor/SkypeLangEditor.csproj" />
+</Solution>
